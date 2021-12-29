@@ -1,4 +1,4 @@
-- 🔭 I’m currently working as a Software Engineer at USCIS DID(it)
+- 🔭 I’m currently working as a Software Engineer at USCIS DID(it) using JavaScript, SQL Server, ColdFusion and Rails
 - 🌱 I’m currently learning Angular
 - 📫 How to reach me: me@chrisvig.com and https://www.linkedin.com/in/christophervigliotti
 - 😄 Pronouns: he/him
