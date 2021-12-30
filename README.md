@@ -2,5 +2,5 @@
 - 🏛️ I'm currently serving as a Council Member at The City of Brunswick, Maryland https://brunswickmd.gov/
 - 🌱 I’m currently learning Angular
 - 📫 How to reach me: me@chrisvig.com and https://www.linkedin.com/in/christophervigliotti
-- 😄 Pronouns: he/him
+- ✌️Pronouns: he/him
 - 👂 SoundCloud? Yes. https://soundcloud.com/chris_vig 
