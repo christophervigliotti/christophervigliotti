@@ -1,4 +1,4 @@
-- 🚶‍♂️I’m currently working as a Software Engineer at USCIS DID(it) / Evans & Chambers Technology (JavaScript, SQL Server, ColdFusion and Rails)
+- 🚶‍♂️I’m currently working as a Software Engineer at USCIS DID(it) / Evans & Chambers Technology (JavaScript, SQL Server, ColdFusion and a splash of Rails (AFT))
 - 🏛️ I'm currently serving as a Council Member at The City of Brunswick, Maryland https://brunswickmd.gov/
 - 🌱 I’m currently learning Angular
 - 📫 How to reach me: me@chrisvig.com and https://www.linkedin.com/in/christophervigliotti
