@@ -5,7 +5,7 @@ Hi!  I’m currently working as a Senior Software Engineer at USCIS DID(it) / Ev
 ## Other Stuff
 
 - 🏛️ I'm currently serving as a Council Member at The City of Brunswick, Maryland https://brunswickmd.gov/
-- 🌱 I’m currently learning Angular!  Progress and repos for this effort can be found [here](https://gist.github.com/christophervigliotti/92e5b3b93cbe9d630d8e9d81b7eb6636) 
+- 🌱 I’m currently learning Angular (progress and repos [here](https://gist.github.com/christophervigliotti/92e5b3b93cbe9d630d8e9d81b7eb6636)) and am brushing up on Bootstrap (which I would love to use more) and jQuery (which I am very comfortable with but am working to fill some knowledge gaps).  Always be learning, y'all!
 - 📫 How to reach me: [me@chrisvig.com](mailto:me@chrisvig.com) and [LinkedIn](https://www.linkedin.com/in/christophervigliotti)
 - 👂 SoundCloud? Yes. https://soundcloud.com/chris_vig 
 - ✌️Pronouns: he/him
