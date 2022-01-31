@@ -1,6 +1,10 @@
 # Christopher Vigliotti
 
-Hi!  I’m currently working as a Senior Software Engineer at USCIS DID(it) / Evans & Chambers Technology (JavaScript, SQL Server, ColdFusion and a splash of Rails (AFT)).  You can find my resume [here](https://gist.github.com/christophervigliotti/bb4cd6312bd7a8459cff3412f33c71f9) 
+Hi!  I’m currently working as a Senior Software Engineer at USCIS DID(it) / Evans & Chambers Technology (JavaScript, SQL Server, ColdFusion and a splash of Rails (AFT)).  
+
+## My resume
+
+[Here it is!](https://gist.github.com/christophervigliotti/bb4cd6312bd7a8459cff3412f33c71f9) 
 
 ## Other Stuff
 
