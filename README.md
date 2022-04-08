@@ -4,7 +4,7 @@ Hi!  I’m currently working as a Senior Software Engineer at USCIS DID(it) / Ex
 
 ## My Résumé
 
-[Here it is!](https://gist.github.com/christophervigliotti/bb4cd6312bd7a8459cff3412f33c71f9).  
+[Here it is!](https://gist.github.com/christophervigliotti/bb4cd6312bd7a8459cff3412f33c71f9)  
 
 ## Other Stuff
 
