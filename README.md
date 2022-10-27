@@ -17,5 +17,10 @@ Hi!  I’m currently working as a Senior Software Engineer at USCIS DID(it) / Ex
 
 ### 🌱 Ruby on Rails
 
-- Firstly https://www.theodinproject.com/paths/full-stack-ruby-on-rails/courses/ruby
-- then after that... https://www.theodinproject.com/paths/full-stack-ruby-on-rails/courses/ruby-on-rails
+#### Ruby
+https://www.theodinproject.com/paths/full-stack-ruby-on-rails/courses/ruby
+- https://github.com/christophervigliotti/odin_ruby
+- https://github.com/christophervigliotti/odin_ruby_exercises
+
+#### Rails
+https://www.theodinproject.com/paths/full-stack-ruby-on-rails/courses/ruby-on-rails
