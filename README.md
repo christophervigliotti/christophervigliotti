@@ -1,6 +1,6 @@
 # Christopher Vigliotti
 
-Hi!  I’m currently working as a Senior Software Engineer at USCIS DID(it) / Excella (JavaScript, SQL Server, ColdFusion and a splash of Rails (AFT)).  
+Hi!  I’m currently working as a Senior Software Engineer at Excella serving USCIS DID(it).  Current tech stack is JavaScript, SQL Server, ColdFusion and Ruby on Rails. 
 
 ## My Résumé
 
@@ -13,14 +13,12 @@ Hi!  I’m currently working as a Senior Software Engineer at USCIS DID(it) / Ex
 - 👂 SoundCloud? Yes. https://soundcloud.com/chris_vig 
 - ✌️Pronouns: he/him
 
-## Currently Learning
+## Currently Learning Ruby on Rails
 
-### 🌱 Ruby on Rails
-
-#### Ruby
+### Ruby
 https://www.theodinproject.com/paths/full-stack-ruby-on-rails/courses/ruby
 - https://github.com/christophervigliotti/odin_ruby
 - https://github.com/christophervigliotti/odin_ruby_exercises
 
-#### Rails
+### Rails
 https://www.theodinproject.com/paths/full-stack-ruby-on-rails/courses/ruby-on-rails
