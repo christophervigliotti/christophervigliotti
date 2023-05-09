@@ -16,6 +16,9 @@ Hi!  I’m currently working as a Senior Software Engineer at Excella serving US
 ## Currently Learning Ruby on Rails
 
 ### Ruby
+
+41% Complete with this as-of May 9th, 2023!  This is super fun.  I highly recommend it!
+
 https://www.theodinproject.com/paths/full-stack-ruby-on-rails/courses/ruby
 - https://github.com/christophervigliotti/odin_ruby
 - https://github.com/christophervigliotti/odin_ruby_exercises
