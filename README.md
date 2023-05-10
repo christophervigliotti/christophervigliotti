@@ -15,10 +15,6 @@ Hi!  I’m currently working as a Senior Software Engineer at Excella serving US
 
 ## Currently Learning Ruby on Rails
 
-![Alt text](https://github.com/christophervigliotti/odin_ruby/blob/main/cf_ruby.jpeg "Move over, ColdFusion...")
-
-
-
 ### Ruby
 
 41% Complete with this as-of May 9th, 2023!  This is super fun.  I highly recommend it!
