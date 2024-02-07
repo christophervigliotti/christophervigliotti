@@ -13,6 +13,6 @@ Hi!  I’m currently working as a Senior Software Engineer at Excella serving US
 - 👂 SoundCloud? Yes. https://soundcloud.com/chris_vig 
 - ✌️Pronouns: he/him
 
-## Continous Learning
+## Continous Improvement
 
-https://gist.github.com/christophervigliotti/7db76974fc33fc74c546dbcdb3bd3f6d 
+Goals/learning tracking notes at https://gist.github.com/christophervigliotti/7db76974fc33fc74c546dbcdb3bd3f6d 
