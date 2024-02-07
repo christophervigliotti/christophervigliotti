@@ -13,15 +13,6 @@ Hi!  I’m currently working as a Senior Software Engineer at Excella serving US
 - 👂 SoundCloud? Yes. https://soundcloud.com/chris_vig 
 - ✌️Pronouns: he/him
 
-## Currently Learning Ruby on Rails
+## Continous Learning
 
-### Ruby
-
-41% Complete with this as-of May 9th, 2023!  This is super fun.  I highly recommend it!
-
-https://www.theodinproject.com/paths/full-stack-ruby-on-rails/courses/ruby
-- https://github.com/christophervigliotti/odin_ruby
-- https://github.com/christophervigliotti/odin_ruby_exercises
-
-### Rails
-https://www.theodinproject.com/paths/full-stack-ruby-on-rails/courses/ruby-on-rails
+https://gist.github.com/christophervigliotti/7db76974fc33fc74c546dbcdb3bd3f6d 
